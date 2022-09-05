@@ -82,7 +82,7 @@
           <img src="../assets/comment1.png" alt="" class="img-fluid" />
         </div>
         <div class="text pt-2">
-          <h2>BEAUTIFUL COMMET</h2>
+          <h2>BEAUTIFUL COMMENT</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error
             repudiandae a quae blanditiis eos possimus enim repellat dicta
@@ -128,7 +128,7 @@
           <img src="../assets/stocks.png" alt="" class="img-fluid" />
         </div>
         <div class="text pt-2">
-          <h2>STOCK MANAGE APP</h2>
+          <h2>STOCK MANAGEMENT APP</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error
             repudiandae a quae blanditiis eos possimus enim repellat dicta
@@ -152,7 +152,7 @@
           <img src="../assets/guardian.png" alt="" class="img-fluid" />
         </div>
         <div class="text pt-2">
-          <h2>GUARDIA SEARCH APP</h2>
+          <h2>GUARDIAN SEARCH APP</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error
             repudiandae a quae blanditiis eos possimus enim repellat dicta
