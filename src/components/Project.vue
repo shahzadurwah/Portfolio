@@ -8,7 +8,7 @@
   </div>
 
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6 d-flex justify-content-center" >
+    <div class="col-sm-12 col-md-5 d-flex justify-content-center" >
        
       <div class="main">
         <div class="image">
@@ -31,7 +31,7 @@
   </div>
 
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-5">
       <div class="main">
         <div class="image">
           <img src="../assets/covid.png" alt="" class="img-fluid" />
@@ -53,7 +53,7 @@
  
 
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-5">
       <div class="main">
         <div class="image">
           <img src="../assets/firegame.png" alt="" class="img-fluid" />
@@ -76,7 +76,7 @@
      
 
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-5">
       <div class="main">
         <div class="image">
           <img src="../assets/comment1.png" alt="" class="img-fluid" />
@@ -99,7 +99,7 @@
       
 
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-5">
       <div class="main">
         <div class="image">
           <img src="../assets/quiz1.png" alt="" class="img-fluid" />
@@ -122,7 +122,7 @@
      
 
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-5">
       <div class="main">
         <div class="image">
           <img src="../assets/stocks.png" alt="" class="img-fluid" />
@@ -146,7 +146,7 @@
       
 
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-5">
       <div class="main">
         <div class="image">
           <img src="../assets/guardian.png" alt="" class="img-fluid" />
@@ -169,7 +169,7 @@
   </div>
       
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-5">
       <div class="main">
         <div class="image">
           <img src="../assets/income-tracker.png" alt="" class="img-fluid" />
@@ -191,7 +191,7 @@
   </div>
     
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-5">
       <div class="main">
         <div class="image">
           <img src="../assets/calculator.png" alt="" class="img-fluid" />

@@ -4,7 +4,7 @@
       class="col-xs-12  col-sm-12 col-md-5 p-5 mr-2"
       id="text"
     >
-      <h1>Hello.<i class="fa fa-star" style="font-size:88px;"></i><br />I am M.Shahzad</h1>
+      <h1>Hello.<i class="fa fa-star"></i><br />I am M.Shahzad</h1>
       <span style="color:lightyellow">I design & build things for the web.</span>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-5 mt-3" id="imag">
@@ -129,7 +129,9 @@ i{
 }
 
 /* media end  */
-
-
+i{
+  font-size: 88px;
+}
+/*  */
 
 </style>
