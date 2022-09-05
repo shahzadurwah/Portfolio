@@ -1,12 +1,14 @@
 <template>
   
-  <div class="text-center mt-5">
-
-    <h1 class="text-center" id="div-p">PORTFOLIO</h1>
+  <div class=" row text-center mt-5">
+    <div class="col-sm-12">
+      <h1 class="text-center" id="div-p">PORTFOLIO</h1>
+    </div>
+    
   </div>
 
   <div class="row justify-content-center text-white">
-    <div class="col-sm-12 col-md-10" >
+    <div class="col-sm-12 col-md-6 d-flex justify-content-center" >
        
       <div class="main">
         <div class="image">
@@ -24,6 +26,12 @@
           <button class="btn"><a href="https://github.com/shahzadurwah/vue-movies" target="_blank">GitHub-></a></button>
         </div>
       </div>
+
+    </div>
+  </div>
+
+  <div class="row justify-content-center text-white">
+    <div class="col-sm-12 col-md-6">
       <div class="main">
         <div class="image">
           <img src="../assets/covid.png" alt="" class="img-fluid" />
@@ -40,6 +48,12 @@
           
         </div>
       </div>
+    </div>
+  </div>
+ 
+
+  <div class="row justify-content-center text-white">
+    <div class="col-sm-12 col-md-6">
       <div class="main">
         <div class="image">
           <img src="../assets/firegame.png" alt="" class="img-fluid" />
@@ -57,6 +71,12 @@
           
         </div>
       </div>
+    </div>
+  </div>
+     
+
+  <div class="row justify-content-center text-white">
+    <div class="col-sm-12 col-md-6">
       <div class="main">
         <div class="image">
           <img src="../assets/comment1.png" alt="" class="img-fluid" />
@@ -74,6 +94,12 @@
 
         </div>
       </div>
+    </div>
+  </div>
+      
+
+  <div class="row justify-content-center text-white">
+    <div class="col-sm-12 col-md-6">
       <div class="main">
         <div class="image">
           <img src="../assets/quiz1.png" alt="" class="img-fluid" />
@@ -91,6 +117,12 @@
           
         </div>
       </div>
+    </div>
+  </div>
+     
+
+  <div class="row justify-content-center text-white">
+    <div class="col-sm-12 col-md-6">
       <div class="main">
         <div class="image">
           <img src="../assets/stocks.png" alt="" class="img-fluid" />
@@ -109,6 +141,12 @@
           
         </div>
       </div>
+    </div>
+  </div>
+      
+
+  <div class="row justify-content-center text-white">
+    <div class="col-sm-12 col-md-6">
       <div class="main">
         <div class="image">
           <img src="../assets/guardian.png" alt="" class="img-fluid" />
@@ -127,6 +165,11 @@
           
         </div>
       </div>
+    </div>
+  </div>
+      
+  <div class="row justify-content-center text-white">
+    <div class="col-sm-12 col-md-6">
       <div class="main">
         <div class="image">
           <img src="../assets/income-tracker.png" alt="" class="img-fluid" />
@@ -144,6 +187,11 @@
           
         </div>
       </div>
+    </div>
+  </div>
+    
+  <div class="row justify-content-center text-white">
+    <div class="col-sm-12 col-md-6">
       <div class="main">
         <div class="image">
           <img src="../assets/calculator.png" alt="" class="img-fluid" />
@@ -161,9 +209,13 @@
           
         </div>
       </div>
-   
     </div>
   </div>
+
+      
+   
+    
+  
 </template>
 
 <script>
@@ -180,11 +232,11 @@ export default {
 
   position: relative;
   width: 100%;
-  margin: 1rem auto;
+  /* margin: 1rem 0; */
   margin-top: 2rem;
-  max-width: 450px;
+  /* max-width: 450px; */
 
-  padding: 10px 1rem;
+  /* padding: 10px 1rem; */
 }
 
 .main:hover {
@@ -241,5 +293,12 @@ a{
 h2{
   padding-top: 1rem;
   color:lightyellow
+}
+
+@media only screen and (max-width: 450px) {
+ h1{
+  font-weight: normal;
+  font-size: 60px;
+ }
 }
 </style>

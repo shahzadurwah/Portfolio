@@ -14,7 +14,7 @@
   </div>
 
   <div class="row">
-    <div class="col-12 text-center">
+    <div class="col-sm-12 text-center">
       <div class="item">
         <div class="items">
           
