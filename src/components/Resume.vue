@@ -1,12 +1,12 @@
 <template>
   <div class="row mt-5 pt-3 pb-5 justify-content-center text-white">
-    <div class="col-sm-12 col-md-5 mr-3 color shadow">
+    <div class="col-sm-12 col-md-5  color shadow setm">
       <div class="restitle">
         <h1>M.Shahzad</h1>
         <p class="text-right log">Web Developer & Designer</p>
       </div>
     </div>
-    <div class="col-sm-12 col-md-5 color shadow">
+    <div class="col-sm-12 col-md-5 color shadow setm">
       <div class="items">
         <ul>
           <li>
@@ -32,7 +32,7 @@
 
     <!-- div 2 start -->
 
-    <div class="col-sm-12 col-md-5 mr-3 color shadow">
+    <div class="col-sm-12 col-md-5 pr-3 color shadow setm">
       <div class="restitle2">
         <h2 class="pb-2">Summary</h2>
         <p>
@@ -40,7 +40,7 @@
         </p>
       </div>
     </div>
-    <div class="col-sm-12 col-md-5 color shadow">
+    <div class="col-sm-12 col-md-5 color shadow setm">
       <div class="restitle2">
         <h2 class="pb-2">Key skills</h2>
         <button class="btn btnn">Semantic HTML</button>
@@ -60,7 +60,7 @@
     </div>
     <!-- div 3 start -->
 
-    <div class="col-sm-12 col-md-5 mr-3 color shadow">
+    <div class="col-sm-12 col-md-5 pr-3 color shadow setm">
       <div class="restitle2">
         <h2 class="pb-2">Interests</h2>
         <div class="interest">
@@ -76,7 +76,7 @@
         <p></p>
       </div>
     </div>
-    <div class="col-sm-12 col-md-5 color shadow">
+    <div class="col-sm-12 col-md-5 color shadow setm">
       <div class="restitle2">
         <h2 class="pb-2">Software</h2>
         <button class="btn btnn">Visual Studio</button>
@@ -235,5 +235,18 @@ i {
   margin-left: 1rem;
   margin-top: 1rem;
   background-color: orange;
+}
+.setm{
+  margin: 1rem 1rem;
+}
+@media only screen and (max-width: 500px){
+  .restitle h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+.setm{
+  margin: 1rem 0rem;
+  
+}
 }
 </style>

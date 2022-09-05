@@ -2,9 +2,10 @@
   <nav class="navbar" >
     <div class="container-fluid">
       <div class="log">
-        <router-link to="/" class="anc ancs"
-          ><h3>Shahzad/Portfolio</h3></router-link
-        >
+        <router-link to="/" class="anc ancs shhide1"
+          ><h3>Shahzad/Portfolio</h3></router-link>
+        <router-link to="/" class="anc ancs shhide"
+          ><h3>Shahzad</h3></router-link>
       </div>
       <div class="items" :class="{'trans': istrue}">
         <ul>
@@ -112,7 +113,9 @@ i {
     display: block;
     font-size: 30px;
     cursor: pointer;
+    color:#fff
   }
+
 
   .items {
     position: absolute;
@@ -150,4 +153,20 @@ i {
 
 
 }
+
+.shhide{
+  display: none;
+}
+
+@media screen and (max-width: 750px) {
+ 
+ .shhide1 {
+  display: none;
+ }
+ .shhide{
+  display: block;
+ }
+
+}
+
 </style>
