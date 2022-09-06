@@ -17,7 +17,7 @@
   </div>
   <div class="d-flex justify-content-center exp">
   
-    <a href="#div-p" v-smooth-scroll="{duration: 700}"><i class="bi bi-arrow-down-circle-fill"></i></a>
+    <a href="#div-p" v-smooth-scroll="{duration: 700}"><i class="bi bi-arrow-down-circle-fill" style="font-size: 40px;"></i></a>
     
   </div>
 
